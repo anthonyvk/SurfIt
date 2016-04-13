@@ -1,0 +1,14 @@
+insert into levels values('1','http://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=AXISBANK'),
+('2','http://weknowmemes.com/2014/02/modern-versions-of-classic-90s-cartoons-8-pics/'),
+('3','http://catalogs.mhhe.com/mhhe/viewProductDetails.do?isbn=0072226803'),
+('4','http://www.oregonlive.com'),
+('5','http://www.siegmann.nl/static/epublib/apidocs/nl/siegmann/epublib/domain/package-summary.html'),
+('6','www.unvisiteddallas.com/harwood-historic-district'),
+('7','http://www.tomtom.jobs/our-locations/tomtom-in-poland/our-units.aspx'),
+('8','http://www.foss.dk/industry-solution/feed-and-forage'),
+('9','https://www.verisigninc.com/en_IN/forms/wpidefintelligence.xhtml'),
+('10','http://usatoday30.usatoday.com/news/states/ns1.htm'),
+('11','http://bigcharts.marketwatch.com/historical'),
+('12','http://www.uom.ac.mu'),
+('13','http://www.rottentomatoes.com/m/american_hustle/');
+commit;
