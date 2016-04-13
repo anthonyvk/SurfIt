@@ -4,8 +4,8 @@ Surf-IT - is a web application designed to organize online event for Maaya 2014 
 *********************************************************************
 
 # The Authors for this application are :  <br />
-Anthony vinay kumar S -	anthony_vinay_kumar_1992_@_gmail_.com <br />
-Harish G - hhg_sharish_@_gmail.com  <br />
+* Anthony vinay kumar S -	anthony_vinay_kumar_1992_@_gmail_.com <br />
+* Harish G - hhg_sharish_@_gmail.com  <br />
 *(remove underscores in emailid)*
 
 You are allowed to redistribute this application by retaining 
@@ -21,7 +21,7 @@ Snapshot of a website , in which the participant has to Identify the
 Website’s Address by using a search Engine.
 
 *********************************************************************
-# Please send a mail to **Anthony** to add to collaborators list , to allow pushing changes.
+## Please send your Github ID or email-id to **Anthony** via email to add to collaborators list , to allow pushing changes.
 *********************************************************************
 
 ## Follow these instructions to use this code :
