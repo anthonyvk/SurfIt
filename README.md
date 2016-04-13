@@ -3,7 +3,7 @@ Surf-IT - is a web application designed to organize online event for Maaya 2014 
 
 *********************************************************************
 
-# The Authors for this application are :
+# The Authors for this application are :  <br />
 Anthony vinay kumar S -	anthonyvinaykumar1992@gmail.com
 Harish G - hhgsharish@gmail.com 
 
@@ -20,26 +20,27 @@ Snapshot of a website , in which the participant has to Identify the
 Website’s Address by using a search Engine.
 
 *********************************************************************
-Follow these instructions to use this code :
+## Follow these instructions to use this code :
 
-1- Clone this repository by 
-git clone https://github.com/anthonyvk/SurfIt.git
+1. Clone this repository by 
+``git clone https://github.com/anthonyvk/SurfIt.git``
 
-2- Create a new branch
-git branch <branch name>
+2. Create a new branch
+``git branch <branch name>``
 
-3- Checkout to that branch
-git checkout <branch name>
+3. Checkout to that branch
+``git checkout <branch name>``
 
-4- Do your changes , modify the code as per the requirements.
-5- After the end of event kindly commit the changes and push
-git add .
-git commit -m 'Meaningful message'
-git push origin <branch name>
+4. Do your changes , modify the code as per the requirements.
+5. After the end of event kindly commit the changes and push
+  * ``git add .``  **(see the . dot)** <br />
+  * ``git commit -m 'Meaningful message'`` <br />
+  * ``git push origin <branch name>`` <br />
 
 <branch name> - A meaning full branch name denoting the college and event name . example 'PESITBSC-Esperanza2k15' .
 
 *********************************************************************
+# Description for the files and directories are as follows :  <br />
 
 index.htm - 
 is the starting page which contains navigation to various 
