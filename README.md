@@ -4,8 +4,9 @@ Surf-IT - is a web application designed to organize online event for Maaya 2014 
 *********************************************************************
 
 # The Authors for this application are :  <br />
-Anthony vinay kumar S -	anthonyvinaykumar1992@gmail.com
-Harish G - hhgsharish@gmail.com 
+Anthony vinay kumar S -	anthony_vinay_kumar_1992_@_gmail_.com <br />
+Harish G - hhg_sharish_@_gmail.com  <br />
+*(remove underscores in emailid)*
 
 You are allowed to redistribute this application by retaining 
 this license information. For further details and use of application 
@@ -20,6 +21,9 @@ Snapshot of a website , in which the participant has to Identify the
 Website’s Address by using a search Engine.
 
 *********************************************************************
+# Please send a mail to **Anthony** to add to collaborators list , to allow pushing changes.
+*********************************************************************
+
 ## Follow these instructions to use this code :
 
 1. Clone this repository by 
@@ -42,43 +46,43 @@ Website’s Address by using a search Engine.
 *********************************************************************
 # Description for the files and directories are as follows :  <br />
 
-index.htm - 
+* index.htm - 
 is the starting page which contains navigation to various 
 pages.
 
-register.php - 
+* register.php - 
 Page where the participants must register with the details to get 
 login credentials to the event.
 
-start.php -
+* start.php -
 Login page which navigates to the event page (event.php) when the 
 participant logs in.
 
-event.php -
+* event.php -
 This page contains the snapshot of images from '/img/level' folder 
 and the text field to allow user to input the website URL.
 The image names in the folder '/img/level' must be based on the level 
 number with the extension '.JPG'.
 
-leaderboard.php -
+* leaderboard.php -
 This page shows the ranking and progress of the user. The topmost 
 user is the winner (of that rank order) in case of a tie.
 
-/script/dbconnect.php -
+* /script/dbconnect.php -
 Configuration script for database connection. 
 Modify $SURFIT_LEVEL to customize the number of levels in event.
 
-SpryAssets -
+* SpryAssets -
 This folder contains javasript files for the Spry menu Adobe plugin.
 
-script -
+* script -
 This folder contains script for connecting with the database and the 
 database schema and dump files.
 
-img - 
+* img - 
 This folder contains all images.
 
-img/level -
+* img/level -
 Contains all the website snapshots. The images filename must be based 
 on the level , with the extension '.JPG'. You can customize the 
 'event.php' and database values to suit the custom filetypes.
